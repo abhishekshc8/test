@@ -1,0 +1,216 @@
+    1  apt update
+    2  apt install git
+    3  clear
+    4  mkdir ssh
+    5  git init
+    6  git branch
+    7  clear
+    8  cd ssh
+    9  git init
+   10  git status
+   11  clear
+   12  vim abhishek1989.txt
+   13  git status
+   14  clear
+   15  git status
+   16  clear
+   17  git remote
+   18  git --vsrsion
+   19  git --version
+   20  clear
+   21  git add .
+   22  git status
+   23  git commit -m "saharsa"
+   24  git remote add origin https://github.com/abhishekshc8/ssh.git
+   25  git remote
+   26  git branch
+   27  clear
+   28  ssh-keygen -t rsa -b 4096 -C "abhishekshc8@gmail.com"
+   29  ls -la
+   30  ls ~/.ssh
+   31  ~
+   32  ~/.ssh
+   33  ls -a -l ~/.ssh
+   34  clear
+   35  eval "$(ssh-agent -s)"
+   36  ssh-add -K ~/.ssh/id_rsa
+   37  ssh-add ~/.ssh/id_rsa
+   38  ls -la
+   39  ls ~/.ssh
+   40  history
+   41  clear
+   42  pwd
+   43  ls -la
+   44  l
+   45  ls
+   46  cd
+   47  ls
+   48  cd ssh
+   49  ls -la
+   50  cd
+   51  cd etc
+   52  cd /etc
+   53  ls -la
+   54  ls | 
+   55  ls -l | grep ssh
+   56  ls -la
+   57  cd ssh
+   58  la
+   59  ls -la
+   60  cd
+   61  pwd
+   62  cd ssh
+   63  la 
+   64  ls -la
+   65  cat ~/.ssh/id_rsa.pub
+   66  cd
+   67  cd ssh
+   68  cd
+   69  pwd
+   70  cd /root
+   71  cd root
+   72  pwd
+   73  cd etc
+   74  cd /etc
+   75  ls -la
+   76  ls
+   77  cd ssh
+   78  ls
+   79  cd ssh_host_rsa_key
+   80  cd /ssh_host_rsa_key
+   81  cat ssh_host_rsa_key
+   82  clear
+   83  cd
+   84  cd ssh
+   85  ls
+   86  ls -la
+   87  ssh -T git@github.com
+   88  git remote
+   89  git status
+   90  clean
+   91  clear
+   92  git branch
+   93  git push origin master
+   94  git push origin main
+   95  git push -u origin master
+   96  git push -u origin main
+   97  clear
+   98  git push -u origin main
+   99  git push origin master
+  100  history > git_history.txt
+  101  git add .
+  102  git commit -m "git_command"
+  103  git push origin master
+  104  git remote
+  105  git status
+  106  git remote add origin https://github.com/abhishekshc8/test.git
+  107  git remote set-url origin https://github.com/abhishekshc8/test.git
+  108  git remote
+  109  git remote -v
+  110  git push origin master
+  111  git push origin main
+  112  git branch
+  113  git checkout main
+  114  git checkout -b main
+  115  git branch
+  116  git push origin main
+  117  cd
+  118  mk dir test
+  119  mkdir test
+  120  cd test
+  121  git clone https://github.com/abhishekshc8/test.git
+  122  ls -la
+  123  cd test
+  124  ls -la
+  125  cd
+  126  cd ssh
+  127  git push origin main
+  128  cd
+  129  clear
+  130  cd test
+  131  pwd
+  132  cd
+  133  cd ssh
+  134  pwd
+  135  cd
+  136  cd test
+  137  cp /root/ssh* /root/test
+  138  cp -r /root/ssh* /root/test
+  139  ls -la
+  140  git nit
+  141  git init
+  142  clear
+  143  ls 
+  144  cd ssh
+  145  ls
+  146  git status
+  147  git branch
+  148  git push origin main
+  149  git
+  150  clear
+  151  cd
+  152  cd test
+  153  git init
+  154  vim pipra.tct
+  155  vim pipra.txt
+  156  git add.
+  157  git status
+  158  git add .
+  159  git status
+  160  git commit -m "test"
+  161  git push origin main
+  162  git branch
+  163  git checkout -b main
+  164  git branch
+  165  git push origin main
+  166  cd
+  167  mkdir pipra
+  168  cd pipra
+  169  git clone https://github.com/abhishekshc8/pipra.git
+  170  ls -la
+  171  cd pipr
+  172  cd pipra
+  173  vim pipra123.txt
+  174  git init
+  175  git status
+  176  git add .
+  177  git status
+  178  git commit -m "pipra"
+  179  git branch
+  180  git push origin main
+  181  git push
+  182  history
+  183  git remote
+  184  git branch
+  185  git push origin main
+  186  git checkout -b khusi
+  187  git branch
+  188  git status
+  189  ls -la
+  190  git status
+  191  git push origin khusi
+  192  vim khusi.txt
+  193  la -ls
+  194  vim pipra123.txt
+  195  git status
+  196  git add pipra123.txt
+  197  git status
+  198  git commit -m "modified"
+  199  git push origin khusi
+  200  git checkout main
+  201  ls -la
+  202  git status
+  203  vim pipra123.txt
+  204  git status
+  205  git add .
+  206  git status
+  207  git commit -m "shalu"
+  208  git push origin main
+  209  cd
+  210  cd ssh
+  211  ls -la
+  212  history
+  213  git branch
+  214  git checkout master
+  215  git status
+  216  history > git_latest_commands
